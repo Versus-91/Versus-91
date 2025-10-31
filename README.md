@@ -1,14 +1,14 @@
 ```yaml
 name: Qader Qaribiyan
 located_in: Dresden 
-current_job: Full Stack Developer
+current_job: Freelance Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
     "Master's in Computational Modeling and Simulation - Visual Computing Track",
     "Bachelor's in Software Engineering",
   ]
-company: ScaDS.AI
+last_company: ScaDS.AI
 
 fields_of_interests:
   [
