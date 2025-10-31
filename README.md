@@ -26,7 +26,7 @@ technical_background:
   ]
   
 currently_learning: ["Azure, TDD, Modular Monolith, and Nuxt"]
-2024 Goals: ["Create 30+ Projects and learn at least 5-10 new Technologies."]
+2025 Goals: ["Create 30+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
