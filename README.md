@@ -15,6 +15,7 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
+    "Deep Reinforcement Learning",
     "UI/UX",
     "DevOps",
   ]
