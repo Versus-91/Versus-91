@@ -30,6 +30,8 @@ currently_learning: ["Azure, TDD, Modular Monolith, and Nuxt"]
 2025 Goals: ["Create 5+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=Versus-91&show_icons=true&theme=radical)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
