@@ -23,7 +23,7 @@ technical_background:
   [
     "Full Stack Developer"
     "Web Developer",
-    "Student Job - Data Science & Machine Learning in Python",
+    "Data Science & Machine Learning in Python",
   ]
   
 currently_learning: ["Azure, TDD, Modular Monolith, and Nuxt"]
