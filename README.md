@@ -1,7 +1,6 @@
 ```yaml
 name: Qader Qaribiyan
 located_in: Dresden 
-current_job: Freelance Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
