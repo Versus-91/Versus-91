@@ -7,6 +7,7 @@ education:
     "Master's in Computational Modeling and Simulation - Visual Computing Track",
     "Bachelor's in Software Engineering",
   ]
+
 last_company: ScaDS.AI
 
 fields_of_interests:
